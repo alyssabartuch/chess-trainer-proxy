@@ -1,0 +1,17 @@
+{
+  "name": "chess-trainer-api",
+  "version": "1.0.0",
+  "description": "Proxy server for chess trainer react frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Alyssa Bartuch",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
